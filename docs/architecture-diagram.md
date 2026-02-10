@@ -1,7 +1,7 @@
 # Architecture Diagram
 
 ## Visual Diagram
-<img width="622" height="1152" alt="AWS-DevOps-Assessment-Architecture drawio" src="https://github.com/user-attachments/assets/54c7ac7e-79ab-4b14-a35b-cbaa525e9488" />
+<img width="621" height="1151" alt="AWS-DevOps-Assessment-Architecture drawio" src="https://github.com/user-attachments/assets/685d372b-ad23-48a8-9edd-652d571d7010" />
 
 ## Component Details
 - VPC: web-app-vpc (10.0.0.0/16)
