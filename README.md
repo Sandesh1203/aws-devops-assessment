@@ -12,8 +12,17 @@ High-availability web application deployed on AWS featuring:
 - Proper security group configurations
 
 ### Architecture
-View detailed architecture: <img width="622" height="1152" alt="AWS-DevOps-Assessment-Architecture drawio" src="https://github.com/user-attachments/assets/b7e5d01d-3c97-42d6-b0cd-6a8b8587fbf0" />
+View detailed architecture: [Architecture Diagram](docs/architecture-diagram.md)
 
 ### Quick Test
 ```bash
 curl web-app-alb-963556721.us-east-1.elb.amazonaws.com
+
+**### Documentation**
+- [Deployment Guide](docs/deployment-guide.md) - How I built this
+- [Architecture Details](docs/architecture-diagram.md) - Visual diagram & components  
+- [AWS Resources](docs/aws-resources.md) - Complete resource list
+
+**### Author**
+Sandesh Yadav - DevOps Technical Assessment  
+Date: February 2026
